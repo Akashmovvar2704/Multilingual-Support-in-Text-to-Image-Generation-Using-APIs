@@ -1,0 +1,2 @@
+# Multilingual-Support-in-Text-to-Image-Generation-Using-APIs
+Multilingual Support in Text-to-Image Generation Using APIs is an AI-based system that generates images from text prompts written in multiple languages. By using translation techniques, and text-to-image APIs, it enables users to create accurate visual content in their native language, improving accessibility and supporting linguistic backgrounds.
